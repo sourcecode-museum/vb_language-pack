@@ -1,0 +1,6 @@
+Title: VB Language Pack Generator 1.30
+Description: VB Language Pack Generator is a Powerful and complete application for you to quickly generate language packs to your VB projects. You need to load a project, and translate your labels, menus, buttons, SSTabs, etc... It is able to translate control arrays and indexed menus too. It can load large captions or tooltips from the binary (.FRX) file of the form. The example, how to use the class module to load language packs is heavly commented. NOW IT HAS A Grid View to fast editing controls of forms and strings. YOU CAN RE-OPEN an existing language pack to edit and save again. YOU CAN UPDATE AN EXISTING language pack by re-opening it and re-loading the project to add new controls and forms to the pack. Vote for me if you like it. Feel free for give me some help to implement it. Thanks!!
+This file came from Planet-Source-Code.com...the home millions of lines of source code
+You can view comments on this code/and or vote on it at: http://www.Planet-Source-Code.com/vb/scripts/ShowCode.asp?txtCodeId=61578&lngWId=1
+
+The author may have retained certain copyrights to this code...please observe their request and the law by reviewing all copyright conditions at the above URL.
