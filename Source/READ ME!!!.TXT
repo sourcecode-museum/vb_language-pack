@@ -1,0 +1,24 @@
+VB Language Pack Generator Version 1.20
+Developed by Frederico Machado (indiofu@bol.com.br)
+
+UPDATED: Version 1.20
+Now my Language Pack Generator can handle Indexed Controls
+and Indexed Menus. It is also able to translate SSTabs.
+Especial thanks to Emiliano F. Martin (Mc Brain) who helped
+me to make this fixes, and to Christian Høj (Chris101) who
+insisted in make this tool the best Language Pack ever.
+Thank you guys!
+
+
+CHANGES: Version 1.10
+I've choosen to use TreeView instead Listbox to show
+forms and objects/controls.
+I think it's too much organized then listboxes, the
+application looks more "professional".
+
+You can use this code in your own applications
+but don't forget to give me some credit, ok?
+
+Vote for me if you like it!
+
+Thanks
